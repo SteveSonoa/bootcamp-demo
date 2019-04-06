@@ -1,0 +1,8 @@
+.coin {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.coin.clicked {
+    opacity: 0.2;
+}
